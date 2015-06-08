@@ -58,9 +58,7 @@ One page navigation guide for node.js study
 - [이클립스를 이용하는 경우](https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger)
 
 ###Node.js응용
-- [Node.js 이용해서 chat을 만들어보자01](http://blog.j2p.kr/blog/2011/11/14/node-chat/)
-- [Node.js 이용해서 chat을 만들어보자02](http://blog.j2p.kr/blog/2011/11/21/node-chat2/)
-- [Node.js 이용해서 chat을 만들어보자03](http://blog.j2p.kr/blog/2011/11/29/node-chat3/)
+- [Node.js 이용해서 chat을 만들어보자](http://okdevtv.com/kr/socket.io-chat-kr.html)
 - [Node.JS와 Express를 이용한 디렉터리 파싱](http://firejune.com/1718) 
 - [Cluster를 이용한 Node.JS의 멀티-코어 서버 관리](http://firejune.com/1693) 
 - [Node.JS에서 컬러풀한 콘솔 디버깅을 - Clog 배포](http://firejune.com/1701) 
